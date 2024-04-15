@@ -1,5 +1,5 @@
-# PyTorch Essential Training: Deep Learning [Revision Q1 2024] [Coderpad]
-This is the repository for the LinkedIn Learning course `PyTorch Essential Training: Deep Learning [Revision Q1 2024] [Coderpad]`. The full course is available from [LinkedIn Learning][lil-course-url].
+# PyTorch Essential Training: Deep Learning
+This is the repository for the LinkedIn Learning course `PyTorch Essential Training: Deep Learning`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
